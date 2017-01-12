@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Универ\РВиП\RVIP_5PRIMER\trunk\Server\AI\bin\Debug\AI.exe.config
+C:\Users\User\Desktop\Универ\РВиП\RVIP_5PRIMER\trunk\Server\AI\obj\Debug\AI.exe
+C:\Users\User\Desktop\Универ\РВиП\RVIP_5PRIMER\trunk\Server\AI\obj\Debug\AI.pdb
+C:\Users\User\Desktop\Универ\РВиП\RVIP_5PRIMER\trunk\Server\AI\bin\Debug\AI.exe
+C:\Users\User\Desktop\Универ\РВиП\RVIP_5PRIMER\trunk\Server\AI\bin\Debug\AI.pdb
+C:\Users\User\Desktop\Универ\РВиП\RVIP_5PRIMER\trunk\Server\AI\bin\Debug\Apache.Ignite.Core.dll
+C:\Users\User\Desktop\Универ\РВиП\RVIP_5PRIMER\trunk\Server\AI\bin\Debug\Apache.Ignite.Core.xml
+C:\Users\User\Desktop\Универ\РВиП\RVIP_5PRIMER\trunk\Server\AI\obj\Debug\Server.csprojResolveAssemblyReference.cache

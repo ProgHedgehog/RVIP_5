@@ -1,0 +1,16 @@
+c:\users\анна\documents\visual studio 2013\Projects\AI\AI\bin\Debug\AI.exe.config
+c:\users\анна\documents\visual studio 2013\Projects\AI\AI\bin\Debug\AI.exe
+c:\users\анна\documents\visual studio 2013\Projects\AI\AI\bin\Debug\AI.pdb
+c:\users\анна\documents\visual studio 2013\Projects\AI\AI\bin\Debug\Apache.Ignite.Core.dll
+c:\users\анна\documents\visual studio 2013\Projects\AI\AI\bin\Debug\Apache.Ignite.Core.xml
+c:\users\анна\documents\visual studio 2013\Projects\AI\AI\obj\Debug\AI.csprojResolveAssemblyReference.cache
+c:\users\анна\documents\visual studio 2013\Projects\AI\AI\obj\Debug\AI.exe
+c:\users\анна\documents\visual studio 2013\Projects\AI\AI\obj\Debug\AI.pdb
+C:\Users\Елизавета\Desktop\Projects\AI\AI\bin\Debug\AI.exe.config
+C:\Users\Елизавета\Desktop\Projects\AI\AI\obj\Debug\AI.exe
+C:\Users\Елизавета\Desktop\Projects\AI\AI\obj\Debug\AI.pdb
+C:\Users\Елизавета\Desktop\Projects\AI\AI\bin\Debug\AI.exe
+C:\Users\Елизавета\Desktop\Projects\AI\AI\bin\Debug\AI.pdb
+C:\Users\Елизавета\Desktop\Projects\AI\AI\bin\Debug\Apache.Ignite.Core.dll
+C:\Users\Елизавета\Desktop\Projects\AI\AI\bin\Debug\Apache.Ignite.Core.xml
+C:\Users\Елизавета\Desktop\Projects\AI\AI\obj\Debug\AI.csprojResolveAssemblyReference.cache
